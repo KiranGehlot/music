@@ -1,0 +1,32 @@
+.heading{
+    width: 100%;
+    font-size: 30px;
+    color: black;
+    margin: 0;
+}
+
+body{
+    font-family: 'Pacifico', cursive;
+    background-size: cover;
+}
+.note{
+    font-size: 20px;
+    color: black;
+}
+
+
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+    border-style: dashed;
+  border-color: rgb(80, 255, 226);
+  margin-top: 10px;
+    
+}
+
+.Song{
+    text-align: center;
+    top: 0px;
+}
+
